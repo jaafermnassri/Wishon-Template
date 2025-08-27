@@ -1,2 +1,4 @@
 # Wishon-Template
-This repository contains a faithful, custom recreation of the "Wishon - Non-Profit &amp; Charity" template kit, meticulously built from the ground up using only core web technologies: HTML, CSS, and vanilla JavaScript
+This repository contains a faithful, custom recreation of the "Wishon - Non-Profit & Charity" template kit, meticulously built from the ground up using only core web technologies: HTML, CSS, and vanilla JavaScript. The project serves as a showcase of front-end development skills, demonstrating the ability to translate a complex, pre-built design into clean, semantic code.
+
+All visual components, including the responsive layout, typography, color scheme, and section designs, were recreated with custom CSS. The interactive elements, such as the navigation menu, donation forms, and any dynamic content, were powered by pure JavaScript, without the use of any external libraries or frameworks. This project is a testament to the power of fundamental web development, proving that professional-grade, functional designs can be achieved with a deep understanding of the core languages of the web.
